@@ -1,3 +1,4 @@
 this is a test file in .txt
 done
 edit
+edit2
